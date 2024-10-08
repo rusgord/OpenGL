@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3y0iXWU+ZqLD0OOdlEurlSPs8ZNcOKObCz//s1nQkxA1SN0rRKXuEIp4NGo+3rYXwHcaAwG+Xxk6JvtM354yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shkverz\\source\\repos\\glWinForm1\\glWinForm1\\glWinForm1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shkverz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shkverz\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shkverz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\shkverz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
